@@ -1,0 +1,16 @@
+After insertion, the list is now: 14
+After insertion, the list is now: 14 -> 69
+After insertion, the list is now: 7 -> 14 -> 69
+After insertion, the list is now: -27 -> 7 -> 14 -> 69
+After insertion, the list is now: -27 -> -25 -> 7 -> 14 -> 69
+After insertion, the list is now: -27 -> -25 -> 7 -> 14 -> 31 -> 69
+After insertion, the list is now: -27 -> -25 -> 7 -> 14 -> 31 -> 36 -> 69
+After insertion, the list is now: -27 -> -25 -> 7 -> 14 -> 31 -> 36 -> 68 -> 69
+After insertion, the list is now: -27 -> -25 -> 7 -> 14 -> 31 -> 36 -> 68 -> 69 -> 88
+After insertion, the list is now: -27 -> -25 -> 7 -> 14 -> 17 -> 31 -> 36 -> 68 -> 69 -> 88
+After insertion, the list is now: -40 -> -27 -> -25 -> 7 -> 14 -> 17 -> 31 -> 36 -> 68 -> 69 -> 88
+After insertion, the list is now: -40 -> -27 -> -25 -> 7 -> 13 -> 14 -> 17 -> 31 -> 36 -> 68 -> 69 -> 88
+After insertion, the list is now: -40 -> -27 -> -25 -> 7 -> 13 -> 14 -> 17 -> 31 -> 36 -> 68 -> 69 -> 88 -> 94
+After insertion, the list is now: -40 -> -27 -> -25 -> 7 -> 13 -> 14 -> 17 -> 30 -> 31 -> 36 -> 68 -> 69 -> 88 -> 94
+After insertion, the list is now: -40 -> -27 -> -25 -> 7 -> 13 -> 14 -> 17 -> 30 -> 31 -> 36 -> 68 -> 69 -> 82 -> 88 -> 94
+After insertion, the list is now: -40 -> -27 -> -25 -> 7 -> 13 -> 14 -> 17 -> 30 -> 31 -> 36 -> 68 -> 69 -> 76 -> 82 -> 88 -> 94

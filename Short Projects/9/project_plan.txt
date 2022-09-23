@@ -1,0 +1,15 @@
+Board class properties:
+	-board size
+	-ship, ship size
+		- possible interaction point, type of ship and ship size combine to create pos of ship on board
+		- add positions taken up by ship to a property in board class. since there will be only one unique point per ship, we can define this unique point and use it. store in seperate object where hits happen, add a ship.hit value. if the amount of ship.hits is equal to the size of the ship, sink the ship.
+			-side note: while printing to map, ship collisions take priority over letters, and sunk ships take priority over letters and hits.
+	- 2D array containing all hit points in [x][y] format, like in sudoku_helper.py. We can recycle some of the iter code, etc.
+	-attempt.move is made easier with this.
+
+Ship class properties:
+	-size, ship name, shape, etc.
+	- shape is handled by init. apparently, the center block is the origin and the rest of the ship is built of blocks surrounding it.
+	-our 2d array containing hit points comes into use here. we should also keep track of the pos of each block of a ship in both the board and ship classes (or maybe only one), because that would make ship.print much easier.
+	-ship.rotate changes the game. we need to think about how we'll implement ship.shape that it makes this possible.
+		

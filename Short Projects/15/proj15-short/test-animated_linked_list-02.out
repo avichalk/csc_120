@@ -1,0 +1,22 @@
+After insertion, the list is now: 64
+After insertion, the list is now: -27 -> 64
+After insertion, the list is now: -27 -> 30 -> 64
+After insertion, the list is now: -27 -> 12 -> 30 -> 64
+After insertion, the list is now: -27 -> 12 -> 30 -> 36 -> 64
+After insertion, the list is now: -27 -> 5 -> 12 -> 30 -> 36 -> 64
+After insertion, the list is now: -27 -> 5 -> 12 -> 30 -> 36 -> 64 -> 71
+After insertion, the list is now: -27 -> 5 -> 12 -> 30 -> 36 -> 64 -> 71 -> 79
+After insertion, the list is now: -27 -> -20 -> 5 -> 12 -> 30 -> 36 -> 64 -> 71 -> 79
+After insertion, the list is now: -27 -> -20 -> 5 -> 12 -> 25 -> 30 -> 36 -> 64 -> 71 -> 79
+After insertion, the list is now: -27 -> -20 -> -6 -> 5 -> 12 -> 25 -> 30 -> 36 -> 64 -> 71 -> 79
+After insertion, the list is now: -27 -> -20 -> -6 -> 5 -> 12 -> 23 -> 25 -> 30 -> 36 -> 64 -> 71 -> 79
+After insertion, the list is now: -27 -> -20 -> -6 -> 5 -> 12 -> 23 -> 25 -> 30 -> 36 -> 64 -> 71 -> 79 -> 90
+After insertion, the list is now: -27 -> -20 -> -6 -> 5 -> 12 -> 23 -> 25 -> 30 -> 36 -> 64 -> 71 -> 79 -> 80 -> 90
+After insertion, the list is now: -46 -> -27 -> -20 -> -6 -> 5 -> 12 -> 23 -> 25 -> 30 -> 36 -> 64 -> 71 -> 79 -> 80 -> 90
+After insertion, the list is now: -46 -> -27 -> -20 -> -6 -> -3 -> 5 -> 12 -> 23 -> 25 -> 30 -> 36 -> 64 -> 71 -> 79 -> 80 -> 90
+After insertion, the list is now: -46 -> -27 -> -20 -> -6 -> -3 -> 5 -> 12 -> 23 -> 25 -> 30 -> 36 -> 64 -> 71 -> 72 -> 79 -> 80 -> 90
+After insertion, the list is now: -46 -> -27 -> -20 -> -6 -> -3 -> 1 -> 5 -> 12 -> 23 -> 25 -> 30 -> 36 -> 64 -> 71 -> 72 -> 79 -> 80 -> 90
+After insertion, the list is now: -46 -> -27 -> -20 -> -6 -> -3 -> 1 -> 5 -> 12 -> 23 -> 25 -> 30 -> 36 -> 64 -> 71 -> 72 -> 74 -> 79 -> 80 -> 90
+After insertion, the list is now: -46 -> -27 -> -20 -> -6 -> -3 -> 1 -> 5 -> 12 -> 23 -> 25 -> 27 -> 30 -> 36 -> 64 -> 71 -> 72 -> 74 -> 79 -> 80 -> 90
+After insertion, the list is now: -46 -> -27 -> -20 -> -6 -> -3 -> 1 -> 5 -> 12 -> 23 -> 25 -> 26 -> 27 -> 30 -> 36 -> 64 -> 71 -> 72 -> 74 -> 79 -> 80 -> 90
+After insertion, the list is now: -46 -> -27 -> -20 -> -6 -> -3 -> -2 -> 1 -> 5 -> 12 -> 23 -> 25 -> 26 -> 27 -> 30 -> 36 -> 64 -> 71 -> 72 -> 74 -> 79 -> 80 -> 90

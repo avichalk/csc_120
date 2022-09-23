@@ -1,0 +1,1396 @@
+Please give the name of the file that contains the board:
+9.. .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ...
+5.6 ... 7.8
+... 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 9,4 is 4.
+
+9.. .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ...
+5.6 ... 7.8
+... 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 9,4 set to 4.
+
+9.. .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+5.6 ... 7.8
+... 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Sorry, no solutions were found.
+
+9.. .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+5.6 ... 7.8
+... 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Hooray!  No conflicts found.
+
+9.. .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+5.6 ... 7.8
+... 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 2,1 set to 2.
+
+92. .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+5.6 ... 7.8
+... 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 3,1 is 1.
+Solution!  The only value possible at square 2,6 is 4.
+
+92. .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+5.6 ... 7.8
+... 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 3,1 set to 1.
+
+921 .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+5.6 ... 7.8
+... 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 2,6 set to 4.
+
+921 .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+5.6 ... 7.8
+.4. 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 7,1 is 5.
+Solution!  The only value possible at square 2,5 is 9.
+
+921 .38 ...
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+5.6 ... 7.8
+.4. 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 7,1 set to 5.
+
+921 .38 5..
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+5.6 ... 7.8
+.4. 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 2,5 set to 9.
+
+921 .38 5..
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 2,4 is 8.
+
+921 .38 5..
+... ..1 .42
+475 ... ...
+
+3.. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 2,4 set to 8.
+
+921 .38 5..
+... ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 2,7 is 3.
+
+921 .38 5..
+... ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+... ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 2,7 set to 3.
+
+921 .38 5..
+... ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+.3. ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 2,2 is 6.
+
+921 .38 5..
+... ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+.3. ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 2,2 set to 6.
+
+921 .38 5..
+.6. ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+.3. ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 1,2 is 8.
+Solution!  The only value possible at square 2,9 is 5.
+
+921 .38 5..
+.6. ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+.3. ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 1,2 set to 8.
+
+921 .38 5..
+86. ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+.3. ... 651
+21. 8.. ...
+... 31. ..9
+
+Your command:
+
+Square 2,9 set to 5.
+
+921 .38 5..
+86. ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+.3. ... 651
+21. 8.. ...
+.5. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 3,2 is 3.
+Solution!  The only value possible at square 1,7 is 7.
+
+921 .38 5..
+86. ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+.3. ... 651
+21. 8.. ...
+.5. 31. ..9
+
+Your command:
+
+Square 3,2 set to 3.
+
+921 .38 5..
+863 ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+.3. ... 651
+21. 8.. ...
+.5. 31. ..9
+
+Your command:
+
+Square 1,7 set to 7.
+
+921 .38 5..
+863 ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+73. ... 651
+21. 8.. ...
+.5. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 7,2 is 9.
+Solution!  The only value possible at square 1,6 is 1.
+Solution!  The only value possible at square 1,9 is 6.
+
+921 .38 5..
+863 ..1 .42
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+73. ... 651
+21. 8.. ...
+.5. 31. ..9
+
+Your command:
+
+Square 7,2 set to 9.
+
+921 .38 5..
+863 ..1 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+.4. 98. ..5
+
+73. ... 651
+21. 8.. ...
+.5. 31. ..9
+
+Your command:
+
+Square 1,6 set to 1.
+
+921 .38 5..
+863 ..1 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+.5. 31. ..9
+
+Your command:
+
+Square 1,9 set to 6.
+
+921 .38 5..
+863 ..1 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 5,2 is 7.
+
+921 .38 5..
+863 ..1 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 5,2 set to 7.
+
+921 .38 5..
+863 .71 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 4,2 is 5.
+
+921 .38 5..
+863 .71 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 4,2 set to 5.
+
+921 .38 5..
+863 571 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Sorry, no solutions were found.
+
+921 .38 5..
+863 571 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Hooray!  No conflicts found.
+
+921 .38 5..
+863 571 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 4,1 set to 4.
+
+921 438 5..
+863 571 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 4,7 is 2.
+
+921 438 5..
+863 571 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. ... 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 4,7 set to 2.
+
+921 438 5..
+863 571 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 4,3 is 6.
+Solution!  The only value possible at square 4,5 is 1.
+
+921 438 5..
+863 571 942
+475 ... ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 4,3 set to 6.
+
+921 438 5..
+863 571 942
+475 6.. ...
+
+38. .56 ..4
+596 ... 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 4,5 set to 1.
+
+921 438 5..
+863 571 942
+475 6.. ...
+
+38. .56 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 9,3 is 3.
+Solution!  The only value possible at square 4,4 is 7.
+
+921 438 5..
+863 571 942
+475 6.. ...
+
+38. .56 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 9,3 set to 3.
+
+921 438 5..
+863 571 942
+475 6.. ..3
+
+38. .56 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 4,4 set to 7.
+
+921 438 5..
+863 571 942
+475 6.. ..3
+
+38. 756 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 3,4 is 2.
+Solution!  The only value possible at square 9,8 is 7.
+
+921 438 5..
+863 571 942
+475 6.. ..3
+
+38. 756 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 3,4 set to 2.
+
+921 438 5..
+863 571 942
+475 6.. ..3
+
+382 756 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ...
+65. 31. ..9
+
+Your command:
+
+Square 9,8 set to 7.
+
+921 438 5..
+863 571 942
+475 6.. ..3
+
+382 756 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ..7
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 9,1 is 6.
+Solution!  The only value possible at square 7,4 is 1.
+Solution!  The only value possible at square 3,6 is 7.
+Solution!  The only value possible at square 8,8 is 3.
+
+921 438 5..
+863 571 942
+475 6.. ..3
+
+382 756 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ..7
+65. 31. ..9
+
+Your command:
+
+ERROR: The 'set' command cannot run, because the space already holds a value.
+
+921 438 5..
+863 571 942
+475 6.. ..3
+
+382 756 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ..7
+65. 31. ..9
+
+Your command:
+
+ERROR: The 'set' command cannot run, because the space already holds a value.
+
+921 438 5..
+863 571 942
+475 6.. ..3
+
+382 756 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ..7
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 9,1 is 6.
+Solution!  The only value possible at square 7,4 is 1.
+Solution!  The only value possible at square 3,6 is 7.
+Solution!  The only value possible at square 8,8 is 3.
+
+921 438 5..
+863 571 942
+475 6.. ..3
+
+382 756 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ..7
+65. 31. ..9
+
+Your command:
+
+Square 9,1 set to 6.
+
+921 438 5.6
+863 571 942
+475 6.. ..3
+
+382 756 ..4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ..7
+65. 31. ..9
+
+Your command:
+
+Square 7,4 set to 1.
+
+921 438 5.6
+863 571 942
+475 6.. ..3
+
+382 756 1.4
+596 1.. 7.8
+14. 98. ..5
+
+73. 2.. 651
+21. 8.. ..7
+65. 31. ..9
+
+Your command:
+
+Square 3,6 set to 7.
+
+921 438 5.6
+863 571 942
+475 6.. ..3
+
+382 756 1.4
+596 1.. 7.8
+147 98. ..5
+
+73. 2.. 651
+21. 8.. ..7
+65. 31. ..9
+
+Your command:
+
+Square 8,8 set to 3.
+
+921 438 5.6
+863 571 942
+475 6.. ..3
+
+382 756 1.4
+596 1.. 7.8
+147 98. ..5
+
+73. 2.. 651
+21. 8.. .37
+65. 31. ..9
+
+Your command:
+
+Hooray!  No conflicts found.
+
+921 438 5.6
+863 571 942
+475 6.. ..3
+
+382 756 1.4
+596 1.. 7.8
+147 98. ..5
+
+73. 2.. 651
+21. 8.. .37
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 8,1 is 7.
+Solution!  The only value possible at square 7,3 is 8.
+Solution!  The only value possible at square 8,4 is 9.
+Solution!  The only value possible at square 8,5 is 2.
+Solution!  The only value possible at square 7,8 is 4.
+
+921 438 5.6
+863 571 942
+475 6.. ..3
+
+382 756 1.4
+596 1.. 7.8
+147 98. ..5
+
+73. 2.. 651
+21. 8.. .37
+65. 31. ..9
+
+Your command:
+
+Square 8,1 set to 7.
+
+921 438 576
+863 571 942
+475 6.. ..3
+
+382 756 1.4
+596 1.. 7.8
+147 98. ..5
+
+73. 2.. 651
+21. 8.. .37
+65. 31. ..9
+
+Your command:
+
+Square 7,3 set to 8.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 1.4
+596 1.. 7.8
+147 98. ..5
+
+73. 2.. 651
+21. 8.. .37
+65. 31. ..9
+
+Your command:
+
+Square 8,4 set to 9.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 7.8
+147 98. ..5
+
+73. 2.. 651
+21. 8.. .37
+65. 31. ..9
+
+Your command:
+
+Square 8,5 set to 2.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 728
+147 98. ..5
+
+73. 2.. 651
+21. 8.. .37
+65. 31. ..9
+
+Your command:
+
+Square 7,8 set to 4.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 728
+147 98. ..5
+
+73. 2.. 651
+21. 8.. 437
+65. 31. ..9
+
+Your command:
+
+Solution!  The only value possible at square 8,3 is 1.
+Solution!  The only value possible at square 5,5 is 4.
+Solution!  The only value possible at square 7,6 is 3.
+Solution!  The only value possible at square 8,6 is 6.
+Solution!  The only value possible at square 3,8 is 9.
+Solution!  The only value possible at square 7,9 is 2.
+Solution!  The only value possible at square 8,9 is 8.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 728
+147 98. ..5
+
+73. 2.. 651
+21. 8.. 437
+65. 31. ..9
+
+Your command:
+
+Square 7,6 set to 3.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 728
+147 98. 3.5
+
+73. 2.. 651
+21. 8.. 437
+65. 31. ..9
+
+Your command:
+
+Square 8,6 set to 6.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 728
+147 98. 365
+
+73. 2.. 651
+21. 8.. 437
+65. 31. ..9
+
+Your command:
+
+Square 3,8 set to 9.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 728
+147 98. 365
+
+73. 2.. 651
+219 8.. 437
+65. 31. ..9
+
+Your command:
+
+Square 7,9 set to 2.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 728
+147 98. 365
+
+73. 2.. 651
+219 8.. 437
+65. 31. 2.9
+
+Your command:
+
+Square 8,9 set to 8.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 728
+147 98. 365
+
+73. 2.. 651
+219 8.. 437
+65. 31. 289
+
+Your command:
+
+Solution!  The only value possible at square 8,3 is 1.
+Solution!  The only value possible at square 5,5 is 4.
+Solution!  The only value possible at square 6,6 is 2.
+Solution!  The only value possible at square 5,8 is 6.
+Solution!  The only value possible at square 6,8 is 5.
+Solution!  The only value possible at square 3,9 is 4.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 1.. 728
+147 98. 365
+
+73. 2.. 651
+219 8.. 437
+65. 31. 289
+
+Your command:
+
+Square 5,5 set to 4.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 14. 728
+147 98. 365
+
+73. 2.. 651
+219 8.. 437
+65. 31. 289
+
+Your command:
+
+Square 6,6 set to 2.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 14. 728
+147 982 365
+
+73. 2.. 651
+219 8.. 437
+65. 31. 289
+
+Your command:
+
+Square 5,8 set to 6.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 14. 728
+147 982 365
+
+73. 2.. 651
+219 86. 437
+65. 31. 289
+
+Your command:
+
+Square 6,8 set to 5.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 14. 728
+147 982 365
+
+73. 2.. 651
+219 865 437
+65. 31. 289
+
+Your command:
+
+Square 3,9 set to 4.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 14. 728
+147 982 365
+
+73. 2.. 651
+219 865 437
+654 31. 289
+
+Your command:
+
+Solution!  The only value possible at square 6,3 is 9.
+Solution!  The only value possible at square 8,3 is 1.
+Solution!  The only value possible at square 6,5 is 3.
+Solution!  The only value possible at square 3,7 is 8.
+Solution!  The only value possible at square 5,7 is 9.
+Solution!  The only value possible at square 6,9 is 7.
+
+921 438 576
+863 571 942
+475 6.. 8.3
+
+382 756 194
+596 14. 728
+147 982 365
+
+73. 2.. 651
+219 865 437
+654 31. 289
+
+Your command:
+
+Square 8,3 set to 1.
+
+921 438 576
+863 571 942
+475 6.. 813
+
+382 756 194
+596 14. 728
+147 982 365
+
+73. 2.. 651
+219 865 437
+654 31. 289
+
+Your command:
+
+Square 6,5 set to 3.
+
+921 438 576
+863 571 942
+475 6.. 813
+
+382 756 194
+596 143 728
+147 982 365
+
+73. 2.. 651
+219 865 437
+654 31. 289
+
+Your command:
+
+Square 3,7 set to 8.
+
+921 438 576
+863 571 942
+475 6.. 813
+
+382 756 194
+596 143 728
+147 982 365
+
+738 2.. 651
+219 865 437
+654 31. 289
+
+Your command:
+
+Square 5,7 set to 9.
+
+921 438 576
+863 571 942
+475 6.. 813
+
+382 756 194
+596 143 728
+147 982 365
+
+738 29. 651
+219 865 437
+654 31. 289
+
+Your command:
+
+Square 6,9 set to 7.
+
+921 438 576
+863 571 942
+475 6.. 813
+
+382 756 194
+596 143 728
+147 982 365
+
+738 29. 651
+219 865 437
+654 317 289
+
+Your command:
+
+Solution!  The only value possible at square 5,3 is 2.
+Solution!  The only value possible at square 6,3 is 9.
+Solution!  The only value possible at square 6,7 is 4.
+
+921 438 576
+863 571 942
+475 6.. 813
+
+382 756 194
+596 143 728
+147 982 365
+
+738 29. 651
+219 865 437
+654 317 289
+
+Your command:
+
+Square 5,3 set to 2.
+
+921 438 576
+863 571 942
+475 62. 813
+
+382 756 194
+596 143 728
+147 982 365
+
+738 29. 651
+219 865 437
+654 317 289
+
+Your command:
+
+Square 6,3 set to 9.
+
+921 438 576
+863 571 942
+475 629 813
+
+382 756 194
+596 143 728
+147 982 365
+
+738 29. 651
+219 865 437
+654 317 289
+
+Your command:
+
+Square 6,7 set to 4.
+
+921 438 576
+863 571 942
+475 629 813
+
+382 756 194
+596 143 728
+147 982 365
+
+738 294 651
+219 865 437
+654 317 289
+
+Your command:
+
+Hooray!  No conflicts found.
+
+921 438 576
+863 571 942
+475 629 813
+
+382 756 194
+596 143 728
+147 982 365
+
+738 294 651
+219 865 437
+654 317 289
+
+Your command:
+
+Sorry, no solutions were found.
+
+921 438 576
+863 571 942
+475 629 813
+
+382 756 194
+596 143 728
+147 982 365
+
+738 294 651
+219 865 437
+654 317 289
+
+Your command:
+

@@ -1,0 +1,9 @@
+Original list: abc -> def -> ghi -> jkl
+--- calling print_rev() ---
+jkl
+ghi
+def
+abc
+--- print_rev() completed ---
+
+TESTCASE COMPLETED

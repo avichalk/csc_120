@@ -1,0 +1,17 @@
+After insertion, the list is now: 79
+After insertion, the list is now: -7 -> 79
+After insertion, the list is now: -46 -> -7 -> 79
+After insertion, the list is now: -46 -> -7 -> 62 -> 79
+After insertion, the list is now: -46 -> -7 -> 62 -> 79 -> 95
+After insertion, the list is now: -46 -> -9 -> -7 -> 62 -> 79 -> 95
+After insertion, the list is now: -46 -> -9 -> -7 -> 0 -> 62 -> 79 -> 95
+After insertion, the list is now: -46 -> -9 -> -7 -> 0 -> 62 -> 79 -> 85 -> 95
+After insertion, the list is now: -46 -> -44 -> -9 -> -7 -> 0 -> 62 -> 79 -> 85 -> 95
+After insertion, the list is now: -46 -> -44 -> -9 -> -7 -> 0 -> 60 -> 62 -> 79 -> 85 -> 95
+After insertion, the list is now: -46 -> -44 -> -9 -> -7 -> 0 -> 60 -> 62 -> 79 -> 85 -> 86 -> 95
+After insertion, the list is now: -46 -> -44 -> -9 -> -7 -> 0 -> 15 -> 60 -> 62 -> 79 -> 85 -> 86 -> 95
+After insertion, the list is now: -46 -> -44 -> -9 -> -7 -> 0 -> 15 -> 60 -> 62 -> 79 -> 85 -> 86 -> 94 -> 95
+After insertion, the list is now: -46 -> -44 -> -21 -> -9 -> -7 -> 0 -> 15 -> 60 -> 62 -> 79 -> 85 -> 86 -> 94 -> 95
+After insertion, the list is now: -46 -> -44 -> -21 -> -9 -> -7 -> 0 -> 10 -> 15 -> 60 -> 62 -> 79 -> 85 -> 86 -> 94 -> 95
+After insertion, the list is now: -46 -> -44 -> -21 -> -9 -> -7 -> 0 -> 10 -> 15 -> 18 -> 60 -> 62 -> 79 -> 85 -> 86 -> 94 -> 95
+After insertion, the list is now: -46 -> -44 -> -30 -> -21 -> -9 -> -7 -> 0 -> 10 -> 15 -> 18 -> 60 -> 62 -> 79 -> 85 -> 86 -> 94 -> 95

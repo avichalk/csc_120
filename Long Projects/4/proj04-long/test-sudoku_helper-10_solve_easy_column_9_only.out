@@ -1,0 +1,270 @@
+Please give the name of the file that contains the board:
+13. ... ...
+697 ..3 ..8
+.52 .76 .1.
+
+.65 ..7 ..4
+... 5.4 ...
+3.. 6.. 15.
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Solution!  The only value possible at square 9,3 is 3.
+Solution!  The only value possible at square 9,6 is 7.
+Solution!  The only value possible at square 1,7 is 4.
+Solution!  The only value possible at square 9,7 is 1.
+Solution!  The only value possible at square 7,9 is 4.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .1.
+
+.65 ..7 ..4
+... 5.4 ...
+3.. 6.. 15.
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Square 9,3 set to 3.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ...
+3.. 6.. 15.
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Hooray!  No conflicts found.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ...
+3.. 6.. 15.
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Solution!  The only value possible at square 9,6 is 7.
+Solution!  The only value possible at square 1,7 is 4.
+Solution!  The only value possible at square 9,7 is 1.
+Solution!  The only value possible at square 7,9 is 4.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ...
+3.. 6.. 15.
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Square 9,6 set to 7.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ...
+3.. 6.. 157
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Hooray!  No conflicts found.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ...
+3.. 6.. 157
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Solution!  The only value possible at square 9,5 is 6.
+Solution!  The only value possible at square 1,7 is 4.
+Solution!  The only value possible at square 9,7 is 1.
+Solution!  The only value possible at square 7,9 is 4.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ...
+3.. 6.. 157
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Square 9,5 set to 6.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ..6
+3.. 6.. 157
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Hooray!  No conflicts found.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ..6
+3.. 6.. 157
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Solution!  The only value possible at square 9,1 is 5.
+Solution!  The only value possible at square 1,7 is 4.
+Solution!  The only value possible at square 9,7 is 1.
+Solution!  The only value possible at square 7,9 is 4.
+
+13. ... ...
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ..6
+3.. 6.. 157
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Square 9,1 set to 5.
+
+13. ... ..5
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ..6
+3.. 6.. 157
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Hooray!  No conflicts found.
+
+13. ... ..5
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ..6
+3.. 6.. 157
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Solution!  The only value possible at square 1,7 is 4.
+Solution!  The only value possible at square 9,7 is 1.
+Solution!  The only value possible at square 7,9 is 4.
+
+13. ... ..5
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ..6
+3.. 6.. 157
+
+.7. 98. 53.
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Square 9,7 set to 1.
+
+13. ... ..5
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ..6
+3.. 6.. 157
+
+.7. 98. 531
+2.. 7.. 689
+... ... .72
+
+Your command:
+
+Hooray!  No conflicts found.
+
+13. ... ..5
+697 ..3 ..8
+.52 .76 .13
+
+.65 ..7 ..4
+... 5.4 ..6
+3.. 6.. 157
+
+.7. 98. 531
+2.. 7.. 689
+... ... .72
+
+Your command:
+

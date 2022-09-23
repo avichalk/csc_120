@@ -1,0 +1,23 @@
+board_2_easy.txt
+
+search
+
+set 9 3 3
+conflicts
+search
+
+set 9 6 7
+conflicts
+search
+
+set 9 5 6
+conflicts
+search
+
+set 9 1 5
+conflicts
+search
+
+set 9 7 1
+conflicts
+

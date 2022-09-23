@@ -1,0 +1,20 @@
+board_1_wikipedia.txt
+
+search
+
+set 4 6 5
+conflicts
+search
+
+back
+
+set 3 7 4
+conflicts
+search
+
+back
+
+set 8 2 3
+conflicts
+search
+

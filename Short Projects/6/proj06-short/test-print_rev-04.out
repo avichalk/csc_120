@@ -1,0 +1,11 @@
+Original list: 5 -> 4 -> 3 -> 2 -> 1 -> 0
+--- calling print_rev() ---
+0
+1
+2
+3
+4
+5
+--- print_rev() completed ---
+
+TESTCASE COMPLETED

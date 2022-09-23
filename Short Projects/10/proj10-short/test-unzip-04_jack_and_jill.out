@@ -1,0 +1,6 @@
+INPUT STREAM: ['S', 'e', 'e', ' ', 'J', 'a', 'c', 'k', ' ', 'r', 'u', 'n', '.', ' ', (11, 9), 's', ' ', 'u', 'p', ' ', 't', 'h', 'e', ' ', 'h', 'i', 'l', 'l', (24, 8), 'a', 'n', 'd', ' ', 'J', 'i', (16, 2), ' ', 'r', 'o', (5, 3), 'd', 'o', 'w', 'n', '.']
+OUTPUT DATA:  "See Jack run.  Jack runs up the hill.  Jack and Jill roll down."
+Length comparisons: 45 -> 63
+
+
+TESTCASE COMPLETED

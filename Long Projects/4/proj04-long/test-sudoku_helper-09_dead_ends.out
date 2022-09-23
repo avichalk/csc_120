@@ -1,0 +1,218 @@
+Please give the name of the file that contains the board:
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+Solution!  The only value possible at square 5,5 is 5.
+Solution!  The only value possible at square 6,7 is 7.
+Solution!  The only value possible at square 9,7 is 4.
+Solution!  The only value possible at square 8,8 is 3.
+
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+Square 4,6 set to 5.
+
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. 52. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+Hooray!  No conflicts found.
+
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. 52. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+The square 5,5 does not have any possible values!
+Solution!  The only value possible at square 2,6 is 1.
+Solution!  The only value possible at square 6,7 is 7.
+Solution!  The only value possible at square 9,7 is 4.
+Solution!  The only value possible at square 8,8 is 3.
+
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. 52. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+Square 3,7 set to 4.
+
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.64 ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+Hooray!  No conflicts found.
+
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.64 ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+Solution!  The only value possible at square 5,5 is 5.
+Solution!  The only value possible at square 6,7 is 7.
+The square 9,7 does not have any possible values!
+Solution!  The only value possible at square 8,8 is 3.
+
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.64 ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+
+53. .7. ...
+6.. 195 ...
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+Square 8,2 set to 3.
+
+53. .7. ...
+6.. 195 .3.
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+Hooray!  No conflicts found.
+
+53. .7. ...
+6.. 195 .3.
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+
+Solution!  The only value possible at square 5,5 is 5.
+Solution!  The only value possible at square 6,7 is 7.
+Solution!  The only value possible at square 9,7 is 4.
+The square 8,8 does not have any possible values!
+
+53. .7. ...
+6.. 195 .3.
+.98 ... .6.
+
+8.. .6. ..3
+4.. 8.3 ..1
+7.. .2. ..6
+
+.6. ... 28.
+... 419 ..5
+... .8. .79
+
+Your command:
+

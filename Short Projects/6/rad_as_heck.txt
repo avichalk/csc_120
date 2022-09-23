@@ -1,0 +1,7 @@
+This is a program that creates a Sierpinski Triangle using recursion. 
+
+It prints every triangle individually, but this can be changed by changing the location of gui.update_frame() in the function create_sierpinski() (line 55). 
+
+It can go up to any number of iterations, but any number greater than 7 will a) create invisible triangles and b) take a very long time. This can be circumvented by changing the size of the canvas and initial triangle, which can be done by changing the integers in gui = graphics.graphics() (line 11) and the array in line 14. Said array contains the points that make up our initial triangle in the form [[x1, y1, x2, y2, x3, y3]]. The fact that it is inside two lists is very important for the function to be recursive.
+
+It accepts three colour inputs- Y, in which case it will give you a festive sierpinski, N, in which case it will give you a standard sierpinski, INVERT!, in which case it will give you a gothic sierpinski, and any other input, which will return a mixture of coloured and standard sierpinskis.

@@ -1,0 +1,92 @@
+board_3_medium.txt
+
+search
+
+set 9 4 4
+search
+conflicts
+
+set 2 1 2
+search
+set 3 1 1
+set 2 6 4
+search
+set 7 1 5
+set 2 5 9
+search
+set 2 4 8
+search
+set 2 7 3
+search
+set 2 2 6
+search
+set 1 2 8
+set 2 9 5
+search
+set 3 2 3
+set 1 7 7
+search
+set 7 2 9
+set 1 6 1
+set 1 9 6
+search
+set 5 2 7
+search
+set 4 2 5
+search
+conflicts
+
+set 4 1 4
+search
+set 4 7 2
+search
+set 4 3 6
+set 4 5 1
+search
+set 9 3 3
+set 4 4 7
+search
+set 3 4 2
+set 9 8 7
+search
+set 3 4 2
+set 9 8 7
+search
+set 9 1 6
+set 7 4 1
+set 3 6 7
+set 8 8 3
+conflicts
+
+search
+set 8 1 7
+set 7 3 8
+set 8 4 9
+set 8 5 2
+set 7 8 4
+search
+set 7 6 3
+set 8 6 6
+set 3 8 9
+set 7 9 2
+set 8 9 8
+search
+set 5 5 4
+set 6 6 2
+set 5 8 6
+set 6 8 5
+set 3 9 4
+search
+set 8 3 1
+set 6 5 3
+set 3 7 8
+set 5 7 9
+set 6 9 7
+search
+set 5 3 2
+set 6 3 9
+set 6 7 4
+conflicts
+
+search
+
